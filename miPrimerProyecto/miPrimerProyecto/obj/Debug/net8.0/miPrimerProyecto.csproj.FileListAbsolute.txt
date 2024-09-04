@@ -1,0 +1,15 @@
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\bin\Debug\net8.0\miPrimerProyecto.exe
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\bin\Debug\net8.0\miPrimerProyecto.deps.json
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\bin\Debug\net8.0\miPrimerProyecto.runtimeconfig.json
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\bin\Debug\net8.0\miPrimerProyecto.dll
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\bin\Debug\net8.0\miPrimerProyecto.pdb
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\obj\Debug\net8.0\miPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\obj\Debug\net8.0\miPrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\obj\Debug\net8.0\miPrimerProyecto.AssemblyInfo.cs
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\obj\Debug\net8.0\miPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\obj\Debug\net8.0\miPrimerProyecto.sourcelink.json
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\obj\Debug\net8.0\miPrimerProyecto.dll
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\obj\Debug\net8.0\refint\miPrimerProyecto.dll
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\obj\Debug\net8.0\miPrimerProyecto.pdb
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\obj\Debug\net8.0\miPrimerProyecto.genruntimeconfig.cache
+C:\Users\josue\Desktop\Progra1-2024-Semi2\miPrimerProyecto\miPrimerProyecto\obj\Debug\net8.0\ref\miPrimerProyecto.dll
